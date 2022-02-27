@@ -1,0 +1,5 @@
+- 👋 Hi, I’m vishnu palanisamy
+- 👀 I’m interested in Datascience
+- 🌱 I’m currently Working in Amazon
+- 💞️ I’m looking to collaborate on Datascience
+- 📫 How to reach me @vishnu_palanisami
